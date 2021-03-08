@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "name": "YouTube",
+      "icon": "https://i.pinimg.com/originals/31/23/9a/31239a2f70e4f8e4e3263fafb00ace1c.png",
+      "description": "Free resources from YouTube"
+    },
+    {
+      "name": "Websites",
+      "icon": "https://i.pinimg.com/originals/31/23/9a/31239a2f70e4f8e4e3263fafb00ace1c.png",
+      "description": "Free resources from Websites"
+    }
+  ]
+}
