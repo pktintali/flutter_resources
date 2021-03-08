@@ -44,10 +44,12 @@ class CategoryCard extends StatelessWidget {
                   ),
                 ),
               )),
-          onPressed: () => Navigator.pushNamed(
-            context,
-            isFree ? FreeResources.routeName : PaidResources.routeName,
-          ),
+          onPressed: () {
+            Navigator.pushNamed(
+              context,
+              isFree ? FreeResources.routeName : PaidResources.routeName,
+            );
+          },
           child: Padding(
             padding: const EdgeInsets.all(8.0),
             child: Row(

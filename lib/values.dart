@@ -14,4 +14,6 @@ class Values {
       'http://clipart-library.com/images_k/cash-icon-transparent/cash-icon-transparent-24.png';
   static const String freeImage =
       'https://icon-library.com/images/free-icon-png/free-icon-png-1.jpg';
+  static const String categoryDataURL =
+      "https://raw.githubusercontent.com/pktintali/flutter_resources/main/lib/data/test.json";
 }
